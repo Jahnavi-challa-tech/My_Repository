@@ -1,6 +1,6 @@
 #include"Example.hpp"
 #include <stdio.h>
- 
+//changes from code
 int mirror_fold();
 int mirror_selection();
 int mirror_control();
