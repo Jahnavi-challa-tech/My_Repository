@@ -4,7 +4,7 @@
 int mirror_fold();
 int mirror_selection();
 int mirror_control();
- 
+ //changes from code
 enum ignition_switch {OFF, ACC, ON, START};
 enum fold_unfold_mirror_switch {FOLD = 0, UNFOLD = 1};
 enum selection_mirror_switch {NEUTRAL = 0, LEFT = 1, RIGHT = 2};
