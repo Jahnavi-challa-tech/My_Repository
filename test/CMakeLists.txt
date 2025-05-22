@@ -2,7 +2,7 @@
 set(TestName ExampleTest)
  
 # Source files for the test
-set(Sources
+set(Sources 
     ExampleTest.cpp
 )
  
@@ -14,4 +14,3 @@ target_link_libraries(${TestName} gtest gtest_main Example)
  
 # Register the test with CTest
 add_test(NAME ${TestName} COMMAND ${TestName})
- 
