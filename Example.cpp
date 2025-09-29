@@ -30,7 +30,8 @@ int main()
  
     return 0;
 }
- 
+
+
 int mirror_fold() 
 {
     if (ignition_swt == ACC)
